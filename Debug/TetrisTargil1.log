@@ -1,0 +1,10 @@
+﻿  TheGame.cpp
+C:\Users\yuval\Desktop\שנה ב\סמסטר ב\cpp\TetrisTargil1\TetrisTargil1\TheGame.cpp(263): warning C4715: 'TheGame::createFigure': not all control paths return a value
+C:\Users\yuval\Desktop\שנה ב\סמסטר ב\cpp\TetrisTargil1\TetrisTargil1\TheGame.cpp(210): warning C4172: returning address of local variable or temporary: line
+C:\Users\yuval\Desktop\שנה ב\סמסטר ב\cpp\TetrisTargil1\TetrisTargil1\TheGame.cpp(220): warning C4172: returning address of local variable or temporary: L1
+C:\Users\yuval\Desktop\שנה ב\סמסטר ב\cpp\TetrisTargil1\TetrisTargil1\TheGame.cpp(227): warning C4172: returning address of local variable or temporary: RL1
+C:\Users\yuval\Desktop\שנה ב\סמסטר ב\cpp\TetrisTargil1\TetrisTargil1\TheGame.cpp(234): warning C4172: returning address of local variable or temporary: Square1
+C:\Users\yuval\Desktop\שנה ב\סמסטר ב\cpp\TetrisTargil1\TetrisTargil1\TheGame.cpp(242): warning C4172: returning address of local variable or temporary: RZ1
+C:\Users\yuval\Desktop\שנה ב\סמסטר ב\cpp\TetrisTargil1\TetrisTargil1\TheGame.cpp(251): warning C4172: returning address of local variable or temporary: Z1
+C:\Users\yuval\Desktop\שנה ב\סמסטר ב\cpp\TetrisTargil1\TetrisTargil1\TheGame.cpp(259): warning C4172: returning address of local variable or temporary: Plus1
+  TetrisTargil1.vcxproj -> C:\Users\yuval\Desktop\שנה ב\סמסטר ב\cpp\TetrisTargil1\Debug\TetrisTargil1.exe
